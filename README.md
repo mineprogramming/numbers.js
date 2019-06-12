@@ -1,5 +1,5 @@
 # numbers.js [![Build Status](https://travis-ci.org/numbers/numbers.js.png)](https://travis-ci.org/numbers/numbers.js)
-Numbers - an advanced mathematics toolkit for JavaScript and Node.js.
+Numbers - an advanced mathematics toolkit for JavaScript and Node.js, adapted for Inner Core
 
 
 ## Description
